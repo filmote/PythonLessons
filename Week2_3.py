@@ -17,6 +17,9 @@ pentagon = {
 
 shapes = [triangle, square, pentagon]
 
-for shape in shapes:
+for x in shapes:
 
-  print("How many sides in a {0} ? {1}".format(shape["name"] , shape["numberOfSides"] ))
+  print("How many sides in a ")
+  print(x["name"] )
+  print(" ? ")
+  print(x["numberOfSides"] )
