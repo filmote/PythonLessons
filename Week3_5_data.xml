@@ -1,0 +1,6 @@
+<actions>
+    <action numberOfSides="3" length="80" />
+    <action numberOfSides="4" length="80" />
+    <action numberOfSides="4" length="100" />
+    <action numberOfSides="5" length="180" />
+</actions>
